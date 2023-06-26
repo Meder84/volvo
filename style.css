@@ -1,0 +1,17 @@
+.volvo {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.volvo-wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 100%;
+  max-width: 1280px;
+}
+
+.image {
+  
+}
+
